@@ -1,3 +1,7 @@
+--------------------------
+	CHARACTER
+--------------------------
+
 Nano filename.txt:  Gatsby:-
 this is linux command for prinitng command to a file use tihs operator > 
 
